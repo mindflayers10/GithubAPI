@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubAPI</string>
+    <string name="name">Name</string>
+    <string name="user_name">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">%s Repository</string>
+    <string name="number">1234</string>
+    <string name="search_hint">Masukkan kata</string>
+
+
+    <string name="search">Search</string>
+    <string name="url">url</string>
+    <string name="favorite">favorite</string>
+</resources>
